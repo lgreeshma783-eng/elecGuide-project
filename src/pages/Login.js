@@ -19,8 +19,9 @@ export const Login = () => {
       }
       const data = await login(authDetail);
       data.accessToken ? navigate("/products") : toast.error(data);
-    } catch(error){
-      toast.error(error.message, {closeButton: true, position: "bottom-center"});
+    } catch (error) {
+      alert("Invalid Credentials");
+      // toast.error(error.message, {closeButton: true, position: "bottom-center"});
     }
   }
   
