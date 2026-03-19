@@ -1,0 +1,402 @@
+{
+  "products": [
+    {
+      "id": 10001,
+      "name": "Basics To Advanced In React",
+      "overview": "Basics to Advanced in React means learning React from simple UI components to building complete professional web applications.",
+      "long_description": "In advanced React, developers learn concepts like custom hooks, context API, and performance optimization. Large applications also use state management libraries such as Redux. These advanced concepts help developers build scalable and efficient applications. Overall, learning React from basics to advanced helps developers build complete modern web applications.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10001.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 5,
+      "best_seller": true
+    },
+    {
+      "id": 10002,
+      "name": "Django Framework for Beginners",
+      "overview": "Django works well with databases like SQLite and MySQL. It is widely used for building secure and scalable websites. Overall, Django is a powerful and beginner-friendly framework for developing modern web applications.",
+      "long_description": "Django is a popular web framework used to build web applications using the Python programming language. It helps developers create websites quickly and efficiently. Django follows the Model–View–Template (MVT) architecture to organize code in a structured way.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10002.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10003,
+      "name": "The Future of Design Systems",
+      "overview": "The future of design systems will focus on scalability, efficiency, and better user experience, making product development faster and more organized.",
+      "long_description": "A design system is a collection of guidelines, components, and tools used to create consistent user interfaces. In the future, design systems will become more important for building modern digital products. They help designers and developers work together more efficiently.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10003.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10004,
+      "name": "The Complete Guide to Backend Development",
+      "overview": "Backend development is essential for building powerful and secure web applications. It ensures that the system works smoothly and that user data is handled correctly.",
+      "long_description": "Backend development usually uses programming languages such as Python, JavaScript, Java, and PHP. These languages help developers build server-side applications. Frameworks like Django and Node.js make backend development faster and easier.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10005,
+      "name": "Build a Blockchain from Scratch in Go",
+      "overview": "Developers also implement a proof-of-work system similar to the one used in Bitcoin to validate new blocks. This process ensures that blocks are added in a secure and controlled way.",
+      "long_description": "A blockchain is a digital system used to store data in secure blocks that are connected together in a chain. Each block contains information and a unique hash that links it to the previous block. This makes the data secure and difficult to change.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10005.avif",
+      "rating": 3,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10006,
+      "name": "Frontend Fastlane Plan With Projects",
+      "overview": "A frontend fastlane plan is a structured way to quickly learn frontend development and build real projects. It helps beginners understand how to create user interfaces for websites using modern technologies.",
+      "long_description": "The first step is learning the basics of web development using HTML, CSS, and JavaScript. HTML is used to structure web pages, CSS is used for styling, and JavaScript adds interactivity. Beginners can practice by building simple projects like a personal webpage or a basic calculator.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10007,
+      "name": "Master the Code Review",
+      "overview": "mastering code review helps developers write better, cleaner, and more secure code, which improves the quality of software projects.",
+      "long_description": "Code review is the process of checking another developer’s code to improve its quality, readability, and performance. It is an important part of software development because it helps find errors before the code is used in an application.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10007.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 2,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "JavaScript Basics To Advance With Shubham",
+      "overview": "JavaScript is one of the most popular programming languages used to create interactive websites. Learning JavaScript from basics to advanced helps developers understand how modern web applications work.",
+      "long_description": "In advanced JavaScript, developers learn concepts like asynchronous programming, promises, async/await, and API integration. These concepts help in building dynamic applications that communicate with servers and databases.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10009,
+      "name": "Python Deep Dive With Projects",
+      "overview": "Python is a popular programming language known for its simple syntax and powerful features. It is widely used in web development, data science, automation, and artificial intelligence.",
+      "long_description": "Learners can practice Python by building projects like a calculator, to-do list application, file manager, or simple web application. Working on projects helps improve programming skills and understand real-world applications of Python.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10009.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10010,
+      "name": "Mastering Software Technique",
+      "overview": "mastering software techniques helps developers build reliable, efficient, and high-quality software applications.",
+      "long_description": "Mastering software techniques means learning the best methods and practices used to develop high-quality software. It helps developers write clean, efficient, and maintainable code.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10010.avif",
+      "rating": 4,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10011,
+      "name": "Web Development Foundation",
+      "overview": "Understanding these foundations helps developers create responsive, attractive, and functional websites. It is the first step toward becoming a professional web developer.",
+      "long_description": "Web development foundation refers to the basic technologies and concepts needed to build websites and web applications. It is the starting point for anyone who wants to become a web developer.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10011.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    },
+    {
+      "id": 10012,
+      "name": "Mastering Git and GitHub - A Practical Guide",
+      "overview": "By mastering Git and GitHub, developers can manage projects efficiently, collaborate with teams, and maintain a complete history of their code.",
+      "long_description": "Git is a tool used by developers to track changes in their code. It helps manage different versions of a project and makes it easy to work with other developers. Developers use Git to save changes, create branches, and merge code without losing previous versions. This helps teams work on the same project without conflicts. GitHub is an online platform that stores Git repositories. It allows developers to upload their code, share projects, and collaborate with others.",
+      "price": 9,
+      "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10012.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 1,
+      "best_seller": false
+    },
+    {
+      "id": 10013,
+      "name": "Everything About React v16",
+      "overview": "React v16 brought many new features and improvements that helped developers build more efficient and scalable web applications.",
+      "long_description": "React v16 is an important version of React that introduced several improvements for building modern web applications. It made React faster, more flexible, and better for handling large applications.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10013.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10014,
+      "name": "Diving Deep With Python 2.7",
+      "overview": "Python 2.7 played an important role in the growth of Python and helped many developers learn programming and build applications.",
+      "long_description": "Python 2.7 was one of the most widely used versions of Python for many years. It was popular because of its simple syntax and powerful features for building different types of applications.",
+      "price": 19,
+      "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10014.avif",
+      "rating": 4,
+      "in_stock": false,
+      "size": 3,
+      "best_seller": false
+    },
+    {
+      "id": 10015,
+      "name": "Kickstart Your UI Design Career",
+      "overview": "learning design principles, using modern design tools, and building a strong portfolio are key steps to kickstart a successful UI design career.",
+      "long_description": "User Interface (UI) design focuses on creating attractive and easy-to-use interfaces for websites and mobile applications. It involves designing layouts, buttons, icons, colors, and typography that improve the user experience.",
+      "price": 9,
+      "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10015.avif",
+      "rating": 2,
+      "in_stock": false,
+      "size": 1,
+      "best_seller": false
+    }
+  ],
+  "featured_products": [
+    {
+      "id": 10004,
+      "name": "The Complete Guide to Backend Development",
+      "overview": "Backend development is essential for building powerful and secure web applications. It ensures that the system works smoothly and that user data is handled correctly.",
+      "long_description": "Backend development usually uses programming languages such as Python, JavaScript, Java, and PHP. These languages help developers build server-side applications. Frameworks like Django and Node.js make backend development faster and easier.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10004.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 7,
+      "best_seller": true
+    },
+    {
+      "id": 10006,
+      "name": "Frontend Fastlane Plan With Projects",
+      "overview": "A frontend fastlane plan is a structured way to quickly learn frontend development and build real projects. It helps beginners understand how to create user interfaces for websites using modern technologies.",
+      "long_description": "The first step is learning the basics of web development using HTML, CSS, and JavaScript. HTML is used to structure web pages, CSS is used for styling, and JavaScript adds interactivity. Beginners can practice by building simple projects like a personal webpage or a basic calculator.",
+      "price": 99,
+      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10006.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 10,
+      "best_seller": false
+    },
+    {
+      "id": 10008,
+      "name": "JavaScript Basics To Advance With Shubham",
+      "overview": "JavaScript is one of the most popular programming languages used to create interactive websites. Learning JavaScript from basics to advanced helps developers understand how modern web applications work.",
+      "long_description": "In advanced JavaScript, developers learn concepts like asynchronous programming, promises, async/await, and API integration. These concepts help in building dynamic applications that communicate with servers and databases.",
+      "price": 29,
+      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+      "image_local": "/assets/images/10008.avif",
+      "rating": 5,
+      "in_stock": true,
+      "size": 3,
+      "best_seller": true
+    }
+  ],
+  "orders": [
+    {
+      "cartList": [
+        {
+          "id": 10001,
+          "name": "Basics To Advanced In React",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 29,
+          "poster": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10001.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 5,
+          "best_seller": true
+        },
+        {
+          "id": 10008,
+          "name": "JavaScript Basics To Advance With Shubham",
+          "overview": "JavaScript is one of the most popular programming languages used to create interactive websites. Learning JavaScript from basics to advanced helps developers understand how modern web applications work.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 29,
+          "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10008.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 3,
+          "best_seller": true
+        }
+      ],
+      "amount_paid": 58,
+      "quantity": 2,
+      "user": {
+        "name": "Shubham Sarda",
+        "email": "shubham@example.com",
+        "id": 1
+      },
+      "id": 1
+    },
+    {
+      "cartList": [
+        {
+          "id": 10002,
+          "name": "Django Framework for Beginners",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 19,
+          "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10002.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 2,
+          "best_seller": false
+        },
+        {
+          "id": 10003,
+          "name": "The Future of Design Systems",
+          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+          "price": 29,
+          "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10003.avif",
+          "rating": 3,
+          "in_stock": true,
+          "size": 1,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 48,
+      "quantity": 2,
+      "user": {
+        "name": "Greeshma L",
+        "email": "greeshma@elecguide.com",
+        "id": 2
+      },
+      "id": 2
+    },
+    {
+      "cartList": [
+        {
+          "id": 10004,
+          "name": "The Complete Guide to Backend Development",
+          "overview": "Backend development is essential for building powerful and secure web applications. It ensures that the system works smoothly and that user data is handled correctly.",
+          "long_description": "Backend development usually uses programming languages such as Python, JavaScript, Java, and PHP. These languages help developers build server-side applications. Frameworks like Django and Node.js make backend development faster and easier.",
+          "price": 99,
+          "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10004.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 7,
+          "best_seller": true
+        },
+        {
+          "id": 10005,
+          "name": "Build a Blockchain from Scratch in Go",
+          "overview": "Developers also implement a proof-of-work system similar to the one used in Bitcoin to validate new blocks. This process ensures that blocks are added in a secure and controlled way.",
+          "long_description": "A blockchain is a digital system used to store data in secure blocks that are connected together in a chain. Each block contains information and a unique hash that links it to the previous block. This makes the data secure and difficult to change.",
+          "price": 19,
+          "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10005.avif",
+          "rating": 3,
+          "in_stock": true,
+          "size": 3,
+          "best_seller": false
+        },
+        {
+          "id": 10006,
+          "name": "Frontend Fastlane Plan With Projects",
+          "overview": "A frontend fastlane plan is a structured way to quickly learn frontend development and build real projects. It helps beginners understand how to create user interfaces for websites using modern technologies.",
+          "long_description": "The first step is learning the basics of web development using HTML, CSS, and JavaScript. HTML is used to structure web pages, CSS is used for styling, and JavaScript adds interactivity. Beginners can practice by building simple projects like a personal webpage or a basic calculator.",
+          "price": 99,
+          "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10006.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 10,
+          "best_seller": false
+        },
+        {
+          "id": 10007,
+          "name": "Master the Code Review",
+          "overview": "mastering code review helps developers write better, cleaner, and more secure code, which improves the quality of software projects.",
+          "long_description": "Code review is the process of checking another developer’s code to improve its quality, readability, and performance. It is an important part of software development because it helps find errors before the code is used in an application.",
+          "price": 19,
+          "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+          "image_local": "/assets/images/10007.avif",
+          "rating": 5,
+          "in_stock": true,
+          "size": 2,
+          "best_seller": false
+        }
+      ],
+      "amount_paid": 236,
+      "quantity": 4,
+      "user": {
+        "name": "Greeshma L",
+        "email": "greeshma@elecguide.com",
+        "id": 2
+      },
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "email": "shubham@example.com",
+      "password": "$2a$10$K9aEH3/VDb2QU/EsjrHGJO7X5JxCcg0bMAnBtyT3kBW9FL7FnnygO",
+      "name": "Shubham Sarda",
+      "id": 1
+    },
+    {
+      "email": "greeshma@elecguide.com",
+      "password": "$2a$10$l.ulxjV9ZFM1xzIeoL8ESupZ.VDc33quj7q3wnApKFg3xxvNSOEYu",
+      "name": "Greeshma L",
+      "id": 2
+    },
+    {
+      "email": "glakshmaiah00@gmail.com",
+      "password": "$2a$10$smU1lIUlwzDdQQN0Pxql1uoM1eOtiOnggxIoRIRtbY7V5J5JTAkwG",
+      "name": "prem yadav",
+      "id": 3
+    }
+  ]
+}
