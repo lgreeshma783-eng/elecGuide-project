@@ -5,22 +5,22 @@ export const Faq = () => {
       {
         "id": 1,
         "question": "Why should I use ElecGuide?",
-        "answer": "Elecguid is an e-kart application that allows users to buy programming books or learning materials online easily."
+        "answer": "ElecGuide is an e-kart application that allows users to buy programming books or learning materials online easily."
       },
         {
           "id": 2,
           "question": "Can I access my eBook on mobile?",
-          "answer": "Just open the Elecguide application, log in to your account, and open your Elecguide to purchase it anytime."
+          "answer": "Just open the ElecGuide application, log in to your account, and open your ElecGuide to purchase it anytime."
         },
         {
           "id": 3,
           "question": "Do you offer refunds?",
-          "answer": "No. Refunds are usually not available for Elecguide because they are digital products that can be downloaded immediately After purchasing."
+          "answer": "No. Refunds are usually not available for ElecGuide because they are digital products that can be downloaded immediately After purchasing."
         },
         {
           "id": 4,
           "question": "Do you support Internation payments?",
-          "answer": "Yes, Elecguide supports international payments. Users from different countries can purchase eBooks using online payment methods like credit cards, debit cards, or other global payment options. International payments allow customers to pay from other countries, sometimes with currency conversion."
+          "answer": "Yes, ElecGuide supports international payments. Users from different countries can purchase eBooks using online payment methods like credit cards, debit cards, or other global payment options. International payments allow customers to pay from other countries, sometimes with currency conversion."
         }
     ];
     
